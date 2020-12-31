@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Claude Chris</h1>
+<h1 align="center">Hi 👋, I'm Chris Claude</h1>
 <h3 align="center">A passionate fullstack developer from Cape Town</h3>
 
 - 🌱 I’m currently learning Gatsby JS
