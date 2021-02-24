@@ -3,10 +3,9 @@
 <h1 align="center">Hi 👋, I'm Chris Claude</h1>
 <h3 align="center">A passionate fullstack developer from Cape Town</h3>
 
-- 🌱 I’m currently learning [Next JS](https://nextjs.org/)
-<p><i class="cib-next-js"></i></p>
+- 🌱 I’m currently learning [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/)
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></p>
+<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></p>
 
 
 <!--
