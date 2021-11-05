@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Chris Claude</h1>
 <h3 align="center">A passionate fullstack developer from Cape Town</h3>
 
-- 🌱 I’m currently learning [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/)
-
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></p>
-
-
+- 🔭 I’m currently building a custom cms with .NET and Next JS
+- ⚡ Fun fact: I'm contributing to open source .NET and React based projects
+- 📫 How to reach me: christ.tchambila@gmail.com (for interesting dev projects only)
 <!--
 
 Here are some ideas to get you started:
