@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building a custom cms with .NET and Next JS
 - ⚡ Fun fact: I'm contributing to open source .NET and React based projects
-- 📫 How to reach me: christ.tchambila@gmail.com (for interesting dev projects only)
+- 📫 How to reach me: email christ.tchambila@gmail.com (for interesting dev projects only)
 <!--
 
 Here are some ideas to get you started:
