@@ -4,7 +4,7 @@
 <h3 align="center">A passionate fullstack developer from Cape Town</h3>
 
 - 🔭 I’m currently building a custom cms with .NET and Next JS
-- ⚡ Fun fact: I'm contributing to open source .NET and React based projects
+- ⚡ Fun fact: I'm contributing to open source .NET and React projects
 - 📫 How to reach me: email christ.tchambila@gmail.com (for interesting dev projects only)
 <!--
 
