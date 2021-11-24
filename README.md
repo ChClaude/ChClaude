@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building a custom cms with .NET and Next JS
 - ⚡ Fun fact: I'm contributing to open source .NET and React projects
-- 📫 How to reach me: email hit me up on twitter [@ChrisClaude_](https://twitter.com/ChrisClaude_)
+- 📫 How to reach me: hit me up on twitter [@ChrisClaude_](https://twitter.com/ChrisClaude_)
 <!--
 
 Here are some ideas to get you started:
