@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
 <h1 align="center">Hi 👋, I'm Chris Claude</h1>
-<h3 align="center">A passionate fullstack developer from Cape Town</h3>
+<h3 align="center">A passionate fullstack developer from South Africa</h3>
 
 - 🔭 I’m currently building a custom cms with .NET and Next JS
 - ⚡ Fun fact: I'm contributing to open source .NET and React projects
