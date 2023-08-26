@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently planning to build a headless CMS with Golang and Next JS
 - 🌱 I’m currently learning Golang
-- ⚡ Fun fact: I'm contributing to open source .NET, Golang, and React projects
-- 📫 How to reach me: hit me up on twitter [@ChrisClaude_](https://twitter.com/ChrisClaude_)
+- ⚡ Fun fact: I'm contributing to open-source .NET, Golang, and React projects
+- 📫 How to reach me: Hit me up on Twitter [@ChrisClaude_](https://twitter.com/ChrisClaude_) or connect with me on [LinkedIn](https://www.linkedin.com/in/claude-de-tchambila-a720ba143/) 
 <!--
 
 Here are some ideas to get you started:
