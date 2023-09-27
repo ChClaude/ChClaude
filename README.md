@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Chris Claude</h1>
 <h3 align="center">A passionate fullstack developer from South Africa</h3>
 
-- 🔭 I’m currently planning to build a headless CMS with Golang and Next JS
-- 🌱 I’m currently learning Golang
-- ⚡ Fun fact: I'm contributing to open-source .NET, Golang, and React projects
+- 🔭 I'm contributing to open-source .NET, Golang, and React projects
+- 🌱 I am also exploring AI and more specifically Reinforcement Learning algorithms to play games
+- ⚡ Fun fact: I have a [YouTube channel}(https://www.youtube.com/@chrisclaude) that publishes project-based coding tutorials 
 - 📫 How to reach me: Hit me up on Twitter [@ChrisClaude_](https://twitter.com/ChrisClaude_) or connect with me on [LinkedIn](https://www.linkedin.com/in/claude-de-tchambila-a720ba143/) 
 <!--
 
