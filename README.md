@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
 <h1 align="center">Hi 👋, I'm Chris Claude</h1>
-<h3 align="center">A passionate fullstack developer from South Africa</h3>
+<h3 align="center">A passionate software engineer and problem solver</h3>
 
 - 🔭 I'm contributing to open-source .NET, Golang, and React projects
 - 🌱 I am also exploring AI and more specifically Reinforcement Learning algorithms to play games
